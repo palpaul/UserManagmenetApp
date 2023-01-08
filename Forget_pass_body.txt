@@ -1,0 +1,12 @@
+Hi ${FNAME} ${LNAME}, <br/>
+<br/>
+
+Please find you password below. <br/>
+
+<br/>
+
+your password : ${PWD} <br/>
+
+
+Thanks, <br/>
+---------CopyRight Rahul--------------- <br/>

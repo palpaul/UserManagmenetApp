@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.jpa.mail",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mail'"
+  },
+  {
+    "name": "spring.jpa.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.port'"
+  },
+  {
+    "name": "spring.jpa.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.host'"
+  },
+  {
+    "name": "spring.jpa.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.username'"
+  },
+  {
+    "name": "spring.jpa.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.password'"
+  },
+  {
+    "name": "spring.datasource.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.dialect'"
+  },
+  {
+    "name": "spring.mail.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.starttls.enable'"
+  }
+]}

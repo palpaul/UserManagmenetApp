@@ -1,0 +1,15 @@
+Hi ${FNAME} ${LNAME}, <br/>
+<br/>
+
+Welcome to User management Application , your registration is almost completed. <br/>
+
+Please unlock your account using below details . <br/>
+
+Temporary Pwd : ${TEMP_PWD} <br/>
+
+<a href = "http://localhost:4200/unlock?email=${EMAIL}">Click here to unlock account </a> <br/>
+
+<br/>
+
+Thanks, <br/>
+CopyRight Rahul<br/>
